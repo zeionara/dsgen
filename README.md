@@ -21,7 +21,7 @@ sudo apt install wine -y
 wine release/dsgen.exe
 ```
 
-The app can be run on android as well. The following screenshots demonstrate the app interface appearance on an android device.
+The app can be run on android as well (requires `Adobe Air`). The following screenshots demonstrate the app interface appearance on an android device.
 
 ![passwords](images/android/passwords.jpg)
 ![nicknames](images/android/nicknames.jpg)
